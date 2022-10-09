@@ -24,8 +24,8 @@ Observamos que los estudiantes de la facultad sufren demasiado la espera por sus
 ## Objetivo
 Implimentar un sistema que agilice los procesos en la comunicación entre el personal de la cafetería, reduciendo tiempo de producción y tiempo de espera de espera por parte de los alumnado y personal docente.
 ## Primer Sprint
-- [27 de septiembre del 2022](./Bitacoras/Primer Sprint/27-SEP-2022.md)
-- [4 de octubre de 2022](./Bitacoras)
+- [27 de septiembre del 2022](./Bitacoras/Primer%Sprint/27-SEP-2022.md)
+- [4 de octubre de 2022](./Bitacoras/Primer%Sprint/04-OCT-2022.md)
 ## Primera Entrega
 ## Segundo Sprint
 ## Segunda Entrega
