@@ -6,7 +6,7 @@
 
 ## Equipo
 <p align="center">
-<img src="https://i.postimg.cc/mkmkf5Xb/Turquesa-y-Blanco-Inteligente-Corporativo-Medios-y-Publicaciones-Actualizaciones-Semanales-de-Equipo.png" height='400' weight='711.111' alt="UADYFood"/>
+<img src="https://i.postimg.cc/htBQ1D1W/Turquesa-y-Blanco-Inteligente-Corporativo-Medios-y-Publicaciones-Actualizaciones-Semanales-de-Equipo.png" height='400' weight='711.111' alt="TeamUADYFood"/>
 </p>
 
 * [Jesús Adrian Chay Tun](https://github.com/JesusChay)
