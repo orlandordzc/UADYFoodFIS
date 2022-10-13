@@ -4,7 +4,7 @@
 <img src="https://i.postimg.cc/MZVY2bm1/Rojo-y-Amarillo-Hot-Cake-Restaurantes-Reapertura-Comercial-Cartel-Horizontal.png" height='400' weight='800' alt="UADYFood"/>
 </p>
 
-## Team
+## Equipo
 <p align="center">
 <img src="https://i.postimg.cc/htBQ1D1W/Turquesa-y-Blanco-Inteligente-Corporativo-Medios-y-Publicaciones-Actualizaciones-Semanales-de-Equipo.png" height='400' weight='711.111' alt="TeamUADYFood"/>
 </p>
@@ -15,20 +15,27 @@
 * [Luis Gerardo Méndez Villanueva](https://github.com/GerardoVillla)
 * [Mariana Estafania Gonzalez Canul](https://github.com/mglezcc)
 
-## Problem
-In FMAT it has been observed that students tend to wait too long for their food, this causing an affectation in the schedules, since the free moments are short, in consecuence, they don´t allow the opportunity to be able to spend so much time when waiting. This is why the initiative arises to inquire about this problem, and find out the reason for the situation; we as a team, decided to address it from the root, in order to provide help for the benefit of both sides. 
+## Problemática
+En FMAT se observa que los estudiantes tienden a esperar demasiado por sus alimentos, esto ocasionando una afectación en los horarios, pues al ser cortos los momentos libres, no permiten la oportunidad de poder prestarle tanto tiempo a la hora de espera. Es por esto que surge la iniciativa de indagar acerca de esta problemática y hallar el porqué de la situación, nosotros como equipo decidimos atenderla desde la raíz, con el fin de brindar ayuda para el beneficio de ambos lados. 
 
-Based on the above, we opted to contact the cafeteria staff and schedule a talk, where several topics were addressed, one of them being the most important and the cause, was the "efficiency in communication" because they told us that their channel (this being having to raise their voice) prevented them from being faster when ordering, for this reason, they intend to adopt new strategies to provide a better service.
+Con base en lo antes mencionado, optamos por contactar al personal de la cafetería y agendar una plática, donde se abordaron varios temas, uno de ellos siendo el más importante y la causa, fue la “eficiencia en la comunicación” pues comentaron que su canal (siendo este el tener que alzar la voz) les impedía ser más rápidos a la hora de efectuar los pedidos, por tal motivo, cuentan con la intención de adoptar nuevas estrategias para brindar un mejor servicio. 
 
 
-## Objetive
-Implement a system that streamlines communication processes between cafeteria staff, reducing production and waiting time for students and teaching staff.
 
-## First Sprint
-- [September 27th, 2022](./Bitacoras/Primer%Sprint/27-SEP-2022.md)
-- [October 4th, 2022](./Bitacoras/Primer%Sprint/04-OCT-2022.md)
-- [October 11th, 2022](./Bitacoras/Primer%Sprint/04-OCT-2022.md)
-## Second Sprint
-## Third Sprint
-## Final Sprint
+## Objetivo 
+Implementar un sistema que agilice los procesos en la comunicación entre el personal de la cafetería, reduciendo el tiempo de producción y de espera por parte del alumnado y personal docente.
 
+## Primera entrega
+- [Objetivo](./Bitacoras/Primer%Sprint/27-SEP-2022.md)
+- [Usuarios](./Bitacoras/Primer%Sprint/04-OCT-2022.md)
+- [Innovación/Creatividad](./Bitacoras/Primer%Sprint/04-OCT-2022.md)
+- [Historia de usuario](./Bitacoras/Primer%Sprint/04-OCT-2022.md)
+- [Requerimientos](./Bitacoras/Primer%Sprint/04-OCT-2022.md)
+- [Descripción de procesos](./Bitacoras/Primer%Sprint/04-OCT-2022.md)
+- [Evidencia de reuniones](./Bitacoras/Primer%Sprint/04-OCT-2022.md)
+- [Competencias](./Bitacoras/Primer%Sprint/04-OCT-2022.md)
+- [Documentos](./Bitacoras/Primer%Sprint/04-OCT-2022.md)
+- [Actividades de aprendizaje](./Bitacoras/Primer%Sprint/04-OCT-2022.md)
+
+## Segunda entrega
+## Entrega final
