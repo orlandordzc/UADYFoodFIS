@@ -35,6 +35,7 @@ Implementar un sistema que agilice los procesos en la comunicación entre el per
 - [Evidencia de reuniones](./Bitacoras/Primer%Sprint/04-OCT-2022.md)
 - [Competencias](./Bitacoras/Primer%Sprint/04-OCT-2022.md)
 - [Documentos](./Bitacoras/Primer%Sprint/04-OCT-2022.md)
+- [Video primera entrega](./Bitacoras/Primer%Sprint/04-OCT-2022.md)
 - [Actividades de aprendizaje](./Bitacoras/Primer%Sprint/04-OCT-2022.md)
 
 ## Segunda entrega
