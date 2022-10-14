@@ -1,0 +1,10 @@
+Priorización de requerimientos funcionales:
+  1.	RF-001, RF-002: Se ingresarán y clasificarán, a través de códigos de barras, los productos vendidos, para seguidamente organizarlos según su tipo
+  2.	RF-006: se hará un apartado donde se señalen los pedidos pendientes y los pedidos entregados
+  3.	RF-003: al momento de comprar se registrará la compra en la caja para que el pedido sea enviado a cocina
+  4.	RF-004, RF-005: Se recibe en cocina para su preparación, y durante este mismo periodo se puede editar el pedido.
+  5.	RF-007: Se registra como entregado y se entrega el pedido 
+Priorización de requerimientos NO funcionales:
+  1.	RNF-003: El sistema facilitara la interacción entre caja y cocina
+  2.	RNF-001: Durante las horas de mayor concurrencia se podrán registrar un N número de pedidos
+  3.	RNF-002: Cuando se rebasen el numero de pedidos, el sistema permitirá seguir registrando el número de pedidos simultáneos por día.
