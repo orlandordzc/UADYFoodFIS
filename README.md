@@ -36,8 +36,8 @@ Implementar un sistema que agilice los procesos en la comunicación entre el per
 - [Evidencia de reuniones](https://github.com/orlandordzc/UADYFoodFIS/blob/main/PRIMERA%20ENTREGA/1.3%20PROCESO%20DE%20DESARROLLO/2.%20Evidencia%20de%20reuniones.pdf)
 - [Competencias](https://github.com/orlandordzc/UADYFoodFIS/blob/main/PRIMERA%20ENTREGA/1.4%20COMPETENCIAS%20DE%20LA%20ASIGNATURA/1.Competencias%20de%20la%20asignatura.md)
 - [Documentos](https://github.com/orlandordzc/UADYFoodFIS/tree/main/PRIMERA%20ENTREGA/1.5%20DOCUMENTOS)
-- [Video primera entrega](./Bitacoras/Primer%Sprint/04-OCT-2022.md)
-- [Actividades de aprendizaje](./Bitacoras/Primer%Sprint/04-OCT-2022.md)
+- [Video primera entrega](https://github.com/orlandordzc/UADYFoodFIS/blob/main/PRIMERA%20ENTREGA/1.5%20DOCUMENTOS/Video%20presentaci%C3%B3n.md)
+- [Actividades de aprendizaje](https://github.com/orlandordzc/UADYFoodFIS/blob/main/PRIMERA%20ENTREGA/1.5%20DOCUMENTOS/Artefactos/Actividades%20de%20aprendizaje.md)
 
 ## Segunda entrega
 ## Entrega final
