@@ -26,12 +26,12 @@ Con base en lo antes mencionado, optamos por contactar al personal de la cafeter
 Implementar un sistema que agilice los procesos en la comunicación entre el personal de la cafetería, reduciendo el tiempo de producción y de espera por parte del alumnado y personal docente.
 
 ## Primera entrega
-- [Objetivo](./PRIMERA%ENTREGA/1.1%DESCRIPCIÓN%DEL%SISTEMA/2.%Objetivo.md)
-- [Usuarios](./Bitacoras/Primer%Sprint/04-OCT-2022.md)
-- [Innovación/Creatividad](./Bitacoras/Primer%Sprint/04-OCT-2022.md)
+- [Objetivo](https://github.com/orlandordzc/UADYFoodFIS/blob/main/PRIMERA%20ENTREGA/1.1%20DESCRIPCI%C3%93N%20DEL%20SISTEMA/2.%20Objetivo.md)
+- [Usuarios](https://github.com/orlandordzc/UADYFoodFIS/blob/main/PRIMERA%20ENTREGA/1.1%20DESCRIPCI%C3%93N%20DEL%20SISTEMA/3.%20Usuarios.md)
+- [Innovación & Creatividad](https://github.com/orlandordzc/UADYFoodFIS/blob/main/PRIMERA%20ENTREGA/1.1%20DESCRIPCI%C3%93N%20DEL%20SISTEMA/4.%20Innovaci%C3%B3n%20%26%20Creatividad.md)
 - [Historia de usuario](./Bitacoras/Primer%Sprint/04-OCT-2022.md)
 - [Requerimientos](./Bitacoras/Primer%Sprint/04-OCT-2022.md)
-- [Descripción de procesos](./Bitacoras/Primer%Sprint/04-OCT-2022.md)
+- [Descripción del proceso](https://github.com/orlandordzc/UADYFoodFIS/blob/main/PRIMERA%20ENTREGA/1.3%20PROCESO%20DE%20DESARROLLO/1.%20Descripci%C3%B3n%20del%20proceso.md)
 - [Evidencia de reuniones](./Bitacoras/Primer%Sprint/04-OCT-2022.md)
 - [Competencias](./Bitacoras/Primer%Sprint/04-OCT-2022.md)
 - [Documentos](./Bitacoras/Primer%Sprint/04-OCT-2022.md)
