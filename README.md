@@ -26,7 +26,7 @@ Con base en lo antes mencionado, optamos por contactar al personal de la cafeter
 Implementar un sistema que agilice los procesos en la comunicación entre el personal de la cafetería, reduciendo el tiempo de producción y de espera por parte del alumnado y personal docente.
 
 ## Primera entrega
-- [Objetivo](./Bitacoras/Primer%Sprint/27-SEP-2022.md)
+- [Objetivo](./PRIMERA-ENTREGA/1.1-DESCRIPCIÓN-DEL-SISTEMA/1.-Problemática.md)
 - [Usuarios](./Bitacoras/Primer%Sprint/04-OCT-2022.md)
 - [Innovación/Creatividad](./Bitacoras/Primer%Sprint/04-OCT-2022.md)
 - [Historia de usuario](./Bitacoras/Primer%Sprint/04-OCT-2022.md)
