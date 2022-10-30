@@ -1,0 +1,4 @@
+## CU vs US 
+Una especificación de casos de uso es un documento que describe cómo los usuarios interactúan con una aplicación o sistema. Se centra en la función del sistema desde el punto de vista del usuario. En otras palabras, describe la interacción del usuario con el sistema y el resultado esperado de esa interacción, mientras que una historia de usuario es una forma de representar un requisito de software desde el punto de vista del usuario. Se trata de un enfoque centrado en el usuario para la captura de requisitos de software, en el que se describe el software que el usuario necesita para llevar a cabo una tarea específica 
+
+La especificación de casos de uso se utiliza cuando se va a documentar un conjunto de pasos que describen cómo un usuario interactúa con un sistema para lograr un objetivo, mientras que, una historia de usuario se utiliza cuando se va a documentar una necesidad o deseo de un usuario de un sistema. 
