@@ -1,0 +1,5 @@
+# Dada la gran cantidad de lenguajes de programación que se generan constantemente, explica cuál sería una estrategia que te permita generar una cultura políglota (transición rápida entre diferentes lenguajes).
+
+En lo personal, pienso que la mejor herramienta que se puede tener para ser un programador poliglota es entender de manera adecuada cómo funciona la lógica de la programación, es decir, el cómo se aplican las estructuras lógicas de la programación, ya que, al tener un entendimiento total de ello, te permitirá comprender de manera más sencillas las estructuras de código de cualquier lenguaje de programación, ya que aun y no sepas la sintaxis propia del lenguaje, el entender la lógica de la programación te permitirá tener un entendimiento moderado de lo que se realiza. 
+
+Fuera de esto, naturalmente el practicar, ya que, si bien su estructura de código entre varios puede compartir similitudes, de igual manera pueden tener diferencias en su escritura, por lo que es importante siempre estar en un constante aprendizaje con el fin de solventar estas dificultades. 
