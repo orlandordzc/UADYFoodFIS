@@ -40,4 +40,5 @@ Implementar un sistema que agilice los procesos en la comunicación entre el per
 - [Actividades de aprendizaje](https://github.com/orlandordzc/UADYFoodFIS/blob/main/PRIMERA%20ENTREGA/1.5%20DOCUMENTOS/Artefactos/Actividades%20de%20aprendizaje.md)
 
 ## Segunda entrega
+- [Evolución del producto](https://github.com/orlandordzc/UADYFoodFIS/blob/Segunda-entrega/SEGUNDA%20ENTREGA/1.%20RESUMENES/1.%20Evoluci%C3%B3n%20del%20producto.md)
 ## Entrega final
