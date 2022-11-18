@@ -41,4 +41,16 @@ Implementar un sistema que agilice los procesos en la comunicación entre el per
 
 ## Segunda entrega
 - [Evolución del producto](https://github.com/orlandordzc/UADYFoodFIS/blob/Segunda-entrega/SEGUNDA%20ENTREGA/1.%20RESUMENES/1.%20Evoluci%C3%B3n%20del%20producto.md)
+- [Evolución de Requerimientos](https://github.com/orlandordzc/UADYFoodFIS/blob/Segunda-entrega/SEGUNDA%20ENTREGA/2.%20REQUERIMIENTOS/1.%20Evoluci%C3%B3n%20de%20Requerimientos.md)
+- [Refinamiento de artefactos](https://github.com/orlandordzc/UADYFoodFIS/blob/Segunda-entrega/SEGUNDA%20ENTREGA/2.%20REQUERIMIENTOS/2.%20Refinamiento%20de%20Artefactos.md)
+- [Bosquejo de interfaces](https://github.com/orlandordzc/UADYFoodFIS/blob/Segunda-entrega/SEGUNDA%20ENTREGA/3.%20DISE%C3%91O/1.%20Bosquejo%20de%20Interfaces.md)
+- [Correspondencia de requerimientos](https://github.com/orlandordzc/UADYFoodFIS/blob/Segunda-entrega/SEGUNDA%20ENTREGA/3.%20DISE%C3%91O/2.%20Correspondencia%20de%20Requerimientos.md)
+- [Validación de interfaces](https://github.com/orlandordzc/UADYFoodFIS/blob/Segunda-entrega/SEGUNDA%20ENTREGA/3.%20DISE%C3%91O/3.%20Validaci%C3%B3n%20de%20Interfaces.md)
+- [Sprints](https://github.com/orlandordzc/UADYFoodFIS/blob/Segunda-entrega/SEGUNDA%20ENTREGA/4.%20PROCESO/1.%20Sprints.md)
+- [Gestión del Proceso](https://github.com/orlandordzc/UADYFoodFIS/blob/Segunda-entrega/SEGUNDA%20ENTREGA/4.%20PROCESO/2.%20Gesti%C3%B3n%20del%20Proceso.md)
+- [Métrica de Contribución Individual](https://github.com/orlandordzc/UADYFoodFIS/blob/Segunda-entrega/SEGUNDA%20ENTREGA/4.%20PROCESO/3.%20M%C3%A9trica%20de%20Contribuci%C3%B3n%20Individual.md)
+- [Presentación](https://github.com/orlandordzc/UADYFoodFIS/tree/Segunda-entrega/SEGUNDA%20ENTREGA/5.%20PRESENTACI%C3%93N)
+- [Competencias Genéricas](https://github.com/orlandordzc/UADYFoodFIS/blob/Segunda-entrega/SEGUNDA%20ENTREGA/6.%20COMPETENCIAS/1.%20Competencias%20Gen%C3%A9ricas.md)
+- [Competencias Específicas](https://github.com/orlandordzc/UADYFoodFIS/blob/Segunda-entrega/SEGUNDA%20ENTREGA/6.%20COMPETENCIAS/2.%20Competencias%20Espec%C3%ADficas.md)
+- []()
 ## Entrega final
