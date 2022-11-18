@@ -40,7 +40,7 @@ Implementar un sistema que agilice los procesos en la comunicación entre el per
 - [Actividades de aprendizaje](https://github.com/orlandordzc/UADYFoodFIS/blob/main/PRIMERA%20ENTREGA/1.5%20DOCUMENTOS/Artefactos/Actividades%20de%20aprendizaje.md)
 
 ## Segunda entrega
-- [Evolución del producto](https://github.com/orlandordzc/UADYFoodFIS/blob/Segunda-entrega/SEGUNDA%20ENTREGA/1.%20RESUMENES/1.%20Evoluci%C3%B3n%20del%20producto.md)
+- [Evolución del producto](https://github.com/orlandordzc/UADYFoodFIS/blob/Segunda-entrega/SEGUNDA%20ENTREGA/1.%20PRODUCTO/1.%20Evoluci%C3%B3n%20del%20Producto.md)
 - [Evolución de Requerimientos](https://github.com/orlandordzc/UADYFoodFIS/blob/Segunda-entrega/SEGUNDA%20ENTREGA/2.%20REQUERIMIENTOS/1.%20Evoluci%C3%B3n%20de%20Requerimientos.md)
 - [Refinamiento de artefactos](https://github.com/orlandordzc/UADYFoodFIS/blob/Segunda-entrega/SEGUNDA%20ENTREGA/2.%20REQUERIMIENTOS/2.%20Refinamiento%20de%20Artefactos.md)
 - [Bosquejo de interfaces](https://github.com/orlandordzc/UADYFoodFIS/blob/Segunda-entrega/SEGUNDA%20ENTREGA/3.%20DISE%C3%91O/1.%20Bosquejo%20de%20Interfaces.md)
