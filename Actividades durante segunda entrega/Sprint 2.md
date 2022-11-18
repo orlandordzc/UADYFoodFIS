@@ -9,12 +9,15 @@
 * _En este sprint nos centramos en el diseño y desarrollo de un prototipo que permita al usuario poder realizar y registrar un pedido mediante las funcionalidades 
 de casos de uso descritas en el primer sprint. A partir de pláticas con el equipo obtuvimos la primera versión digital de las interfaces:_
 
+
+<center>   
 <img src="https://github.com/orlandordzc/UADYFoodFIS/blob/Luis-Gerardo-M%C3%A9ndez-Villanueva/Actividades%20durante%20segunda%20entrega/Interfaces/A1.jpg" alt="JuveYell" width="300px">
+  
 <img src="https://github.com/orlandordzc/UADYFoodFIS/blob/Luis-Gerardo-M%C3%A9ndez-Villanueva/Actividades%20durante%20segunda%20entrega/Interfaces/A2.jpg" alt="JuveR" width="300px">
   
   
 * _Después de las revisiones con el usuario pudimos comprender que hicieron falta algunos apartados para el usuario, la opción de poder ingresar notas en los pedidos, además que logramos que las interfaces sean comprensibles para las dos partes de la cafetería (cajera/cocina):_
-* 
+
 <img src="https://github.com/orlandordzc/UADYFoodFIS/blob/Luis-Gerardo-M%C3%A9ndez-Villanueva/Actividades%20durante%20segunda%20entrega/Interfaces/B2.png" alt="JuveR" width="300px">
 <img src="https://github.com/orlandordzc/UADYFoodFIS/blob/Luis-Gerardo-M%C3%A9ndez-Villanueva/Actividades%20durante%20segunda%20entrega/Interfaces/B1.png" alt="JuveR" width="300px">
 <img src="https://github.com/orlandordzc/UADYFoodFIS/blob/Luis-Gerardo-M%C3%A9ndez-Villanueva/Actividades%20durante%20segunda%20entrega/Interfaces/B3.png" alt="JuveR"
