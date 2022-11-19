@@ -53,4 +53,5 @@ Implementar un sistema que agilice los procesos en la comunicación entre el per
 - [Competencias Genéricas](https://github.com/orlandordzc/UADYFoodFIS/blob/Segunda-entrega/SEGUNDA%20ENTREGA/6.%20COMPETENCIAS/1.%20Competencias%20Gen%C3%A9ricas.md)
 - [Competencias Específicas](https://github.com/orlandordzc/UADYFoodFIS/blob/Segunda-entrega/SEGUNDA%20ENTREGA/6.%20COMPETENCIAS/2.%20Competencias%20Espec%C3%ADficas.md)
 - [Video Segunda Entrega](https://github.com/orlandordzc/UADYFoodFIS/blob/Segunda-entrega/SEGUNDA%20ENTREGA/5.%20PRESENTACI%C3%93N/3.%20Video%20segunda%20entrega.md)
+- [Documento final segunda entrega](https://github.com/orlandordzc/UADYFoodFIS/blob/Segunda-entrega/SEGUNDA%20ENTREGA/5.%20PRESENTACI%C3%93N/Segunda_Entrega_FIS.pdf)
 ## Entrega final
