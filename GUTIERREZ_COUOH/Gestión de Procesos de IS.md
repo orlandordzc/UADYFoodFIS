@@ -1,4 +1,6 @@
 # Gestión de Procesos de IS
+El ingeniero de software debe tener una amplia comprensión acerca de la gestión de procesos en su formación académica. Para describirlo de una mejor forma, se dividió en los siguientes conocimientos y habilidades.
+
 1. Conocimientos básicos de liderazgo: El Ingeniero de Software debe tener una comprensión básica de los principios de liderazgo y cómo aplicarlos a la gestión de procesos. Esto incluye la capacidad de identificar y trabajar en equipo con los mejores talentos y la capacidad de establecer objetivos y alcanzar metas. 
 
 2. Conocimientos de Planeación de Proyectos: El Ingeniero de Software debe tener una comprensión básica de los conceptos de planeación de proyectos, tales como la definición de alcance, estimación de recursos, análisis de riesgos y planificación de la ejecución. 
