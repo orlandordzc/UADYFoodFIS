@@ -35,5 +35,7 @@ Con respecto a la tercera entrega se utilizaron los artefactos anteriormente pla
 •	Una encuesta. 
  
 La encuesta en la que se planteó lo mismo que la encuesta anterior, es decir determinar las experiencias que el usuario tenía con la interfaz, así como también diferentes opiniones acerca de la intuición y el manejo de esta.
+
 Los casos de uso que se utilizaron en esta entrega son los mismos que se utilizaron en la entrega anterior debido a que sabíamos que ya los habíamos planteado de forma correcta por lo que no necesitábamos modificarlos para esta entrega.
+
 Y por último el diagrama de caso de uso que se mantuvo igual que el anterior de la misma entrega, por lo que nos siguió permitiendo de manera visual observar la serie de pasos que se ejecutarían dependiendo de las necesidades o situación que se presente en el sistema.
