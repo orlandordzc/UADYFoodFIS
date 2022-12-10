@@ -1,0 +1,28 @@
+# Priorización de requerimientos funcionales: 
+1.	**RF-001 Clasificar pedidos**  
+El sistema deberá permitir organizar los productos disponibles. 
+2.	**RF-002 Ordenar**  
+El sistema permitirá al personal encargado de la caja y/o a los clientes, realizar una serie de pedidos. 
+3.	**RF-009 Especificaciones del pedido**  
+ El sistema presentará los aditamentos del pedido, permitiendo que el usuario se encargue de seleccionarlos a su gusto.  
+4.	**RF-003 Generar número y monto total del pedido**  
+ El sistema, al concluir el proceso de ordenar, se encargará de generar un número de pedido en donde se encuentre el monto de compra, esto con el fin de que el alumnado pueda monitorear el estado de este. 
+5. **RF-004 Reflejar pedido**  
+El sistema permitirá al personal encargado de la cocina y a la clientela, leer el pedido registrado previamente y monitorear el estado de este mediante el número proporcionado anteriormente. 
+6. **RF-006 Clasificar pedidos**   
+El sistema permitirá agrupar los pedidos en tres apartados, siendo estos, “pedidos completados”, “pedidos en proceso” y “pedidos pendientes”.   
+7.	**RF-007 Pedido entregado**  
+El sistema permitirá una vez concluido, la opción de mover el pedido desde la sección de “pedidos pendientes” a la sección de “pedidos completados”.  
+8.	**RF-008 Eliminar pedido completado**   
+El sistema permitirá a la cajera, la opción de eliminar el pedido de la sección de “pedidos completados” una vez que se haya entregado este al cliente.  
+9.	**RF-005 Editar pedido**   
+El sistema permitirá la opción de editar el pedido, una vez reflejado en la cocina.  
+ 
+# Priorización de requerimientos no funcionales: 
+1.	**RNF-003**  
+El sistema deshabilitará la opción de proceso de compra en caso de que el producto seleccionado se encuentre agotado. 
+3.	**RNF-001**  
+El sistema permitirá registrar N número de pedidos en las horas con mayor concurrencia de la clientela.  
+5.	**RNF-002**  
+El sistema permitirá seguir procesando órdenes aún rebasado el límite mínimo de pedidos simultáneos esperados por día.  
+
