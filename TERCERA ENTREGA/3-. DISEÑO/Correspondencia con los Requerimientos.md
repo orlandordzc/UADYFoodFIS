@@ -1,5 +1,0 @@
-# Correspondencia con los Requerimientos 
-
-Con el fin del que el proyecto tome la dirección adecuada, se realizaron verificaciones del software con el mentor, además de las que se realizaron internamente, la idea era saber si estábamos creando correctamente el software.  Durante dichas actividades se realizaron diversos cambios en nuestros requerimientos. Pues para poder definir correctamente un sistema de software era necesario ser específicos y nuestros requerimientos daban espacio a la ambigüedad. Con ayuda colaborativa y del mentor pudimos obtener los requerimientos específicos que se prestaron a 4 principales casos de uso. Consideramos correcto esta cantidad debido al tiempo que se tenía para el desarrollo del proyecto. 
-
-Durante el desarrollo del prototipo desde la interfaz a mano hasta el demo, se realizaron con relación a que cada artefacto sirviera como modulo para el incremento siguiente, esto nos ayudó a poder verificar si el prototipo final era correcto pues se trabajó en una forma de rompecabezas donde la después de validar con nuestro usuario, lo siguiente seria unir los módulos obtenidos para el siguiente sprint.
